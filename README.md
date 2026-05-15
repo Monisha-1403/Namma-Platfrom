@@ -25,7 +25,7 @@ Project Structure
 Screenshots
 
 Login page
-[Login page](screenshots/login page.png)
+[Loginpage](screenshots/loginpage.png)
 
 Dashboard
 [Dashboard](screenshots/dashboard.png)
@@ -34,19 +34,19 @@ Coachlayout
 [Coachlayout](screenshots/Coachlayout.png)
 
 Station facilities
-[Station facilities](screenshots/Station facilities.png)
+[Stationfacilities](screenshots/Stationfacilities.png)
 
 Emergency page
-[Emergency page](screenshots/Emergency page.png)
+[Emergencypage](screenshots/Emergencypage.png)
 
 Settings page
-[Settings page](screenshots/Settings page.png)
+[Settingspage](screenshots/Settingspage.png)
 
 Feedback page
-[Feedback page](screenshots/Feedback page.png)
+[Feedbackpage](screenshots/Feedbackpage.png)
 
 Route page
-[Route page](screenshots/Route page.png)
+[Routepage](screenshots/Routepage.png)
 
 Future Improvements
 - Real-time chat system between students and instructors
