@@ -1,0 +1,153 @@
+<resources>
+    <string name="app_name">Namma-Platform</string>
+    <string name="app_name_full">NAMMA-PLATFORM\nನಮ್ಮ ಪ್ಲಾಟ್‌ಫಾರ್ಮ್</string>
+    <string name="tagline">Smart Railway Guidance for Everyone</string>
+    <string name="tagline_extended">A Smart Railway Assistant for Rural Passengers</string>
+    <string name="kannada">ಕನ್ನಡ</string>
+    <string name="english">English</string>
+    <string name="select_language">Select Language</string>
+    <string name="login">Login</string>
+    <string name="name_hint">Enter Name</string>
+    <string name="phone_hint">Enter Phone Number</string>
+    <string name="start_journey">Start Journey</string>
+    <string name="welcome">Welcome</string>
+    <string name="greeting_format">Namaskara %1$s!</string>
+    <string name="finding_platform">Finding best railway guidance for you</string>
+    <string name="continue_text">Continue</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="current_station">Current Station</string>
+    <string name="on_time">On Time</string>
+    <string name="delayed">Delayed</string>
+    <string name="help_me">Help Me</string>
+    <string name="voice_placeholder">Listening for your request...</string>
+
+    <string name="coach_layout">Coach Layout</string>
+    <string name="route_timeline">Route Timeline</string>
+    <string name="facilities">Station Facilities</string>
+    <string name="settings">Settings</string>
+    <string name="feedback">Feedback</string>
+    <string name="happy_journey">Happy Journey</string>
+
+    <string name="shubha_prayana">Shubha Prayana!</string>
+    <string name="safe_journey">Have a safe journey.</string>
+    <string name="finish">Finish</string>
+    <string name="submit">Submit</string>
+    <string name="feedback_hint">Tell us about your experience</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="light_mode">Light Mode</string>
+    <string name="high_contrast">High Contrast</string>
+    <string name="reset_app">Reset App</string>
+    <string name="appearance">Appearance</string>
+    <string name="language">Language</string>
+    <string name="voice_accessibility">Voice &amp; Accessibility</string>
+    <string name="seat_layout">Seat Layout</string>
+
+    <string name="coach_guide">Coach Guide</string>
+    <string name="coach_subtitle">Choose your coach</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+
+    <!-- Coach Details -->
+    <string name="coach_name_label">Coach Name</string>
+    <string name="available_seats">Seats Available</string>
+    <string name="seats_format">%1$s Seats Available</string>
+    <string name="crowd_intensity">Crowd Intensity</string>
+    <string name="low_crowd">Low Crowd</string>
+    <string name="medium_crowd">Medium Crowd</string>
+    <string name="heavy_crowd">Heavy Crowd</string>
+    <string name="platform_position">Platform Position</string>
+    <string name="nearest_entry">Nearest Entry</string>
+    <string name="boarding_advice">Boarding Advice</string>
+    <string name="coach_type_label">Coach Type</string>
+
+    <!-- Ladies Coach specific -->
+    <string name="women_reserved">Women Reserved Coach</string>
+    <string name="security_level">Security Level</string>
+    <string name="high_security">High</string>
+    <string name="safe_boarding_zone">Recommended Boarding Zone: Safe Area</string>
+
+    <!-- Emergency Help -->
+    <string name="emergency_help">Emergency Help</string>
+    <string name="railway_police">Railway Police</string>
+    <string name="medical_help">Medical Help</string>
+    <string name="women_safety">Women Safety</string>
+    <string name="lost_found">Lost &amp; Found</string>
+    <string name="emergency_contact">Emergency Contact</string>
+    <string name="call_139">Calling Helpline 139...</string>
+    <string name="call_police">Connecting to Railway Police (182)...</string>
+    <string name="call_medical">Requesting Medical Help (138)...</string>
+    <string name="call_women">Connecting to Women Safety Cell (1091)...</string>
+    <string name="directing_lost_found">Directing to Lost &amp; Found Counter...</string>
+    <string name="shake_phone_tip">Shake your phone for emergency help</string>
+    <string name="call">Call</string>
+
+    <string name="enable_voice">Enable Voice Guide</string>
+    <string name="audio_guide">Audio Guide</string>
+    <string name="large_text">Large Text Mode</string>
+    <string name="thank_you_feedback">Thank you for your feedback!</string>
+    <string name="error_rating_required">Please provide a rating</string>
+    <string name="error_enter_name">Please enter your name</string>
+    <string name="error_invalid_phone">Please enter a valid 10-digit phone number</string>
+    <string name="error_select_junction">Please select a junction first</string>
+    <string name="error_tts_not_ready">TTS not ready</string>
+    <string name="error_tts_kn_not_supported">Kannada voice guide not supported on this device</string>
+    <string name="default_user">User</string>
+    <string name="default_phone">No Phone</string>
+    <string name="msg_app_reset">App Reset Successfully</string>
+    <string name="msg_restart_accessibility">Restart app to apply accessibility changes</string>
+
+    <string name="find_coach_prompt">Select a coach to see details</string>
+    <string name="platform">Platform</string>
+    <string name="station_name_sample">Bangalore City (SBC)</string>
+    <string name="select_junction">Select Junction</string>
+    <string name="announcement_welcome">Welcome to Namma-Platform. Select a junction to begin.</string>
+    <string name="announcement_format">%1$s arriving on Platform %2$s</string>
+    <string name="announcement_delay">%1$s delayed by %2$s mins</string>
+
+    <string name="announcement_main_template">Attention please. %1$s, train number %2$s, is arriving at Platform %3$s.</string>
+    <string name="announcement_next_trains">The next train is %1$s, train number %2$s, arriving on Platform %3$s.</string>
+    <string name="tts_coach_guide">%1$s coach will stop near %2$s.</string>
+    <string name="announcement_attention">Attention please.</string>
+    <string name="announcement_train_number">train number</string>
+    <string name="announcement_arriving_at">is arriving at</string>
+    <string name="announcement_in">in</string>
+    <string name="announcement_at">at</string>
+    <string name="announcement_the_next_trains_are">The next trains are</string>
+    <string name="and">and</string>
+
+    <string name="user_profile">User Profile</string>
+    <string name="logout">Logout</string>
+    <string name="theme">Theme</string>
+    <string name="next_trains">Next 3 Trains</string>
+    <string name="no_trains_selected">Please select a junction to view trains</string>
+    <string name="no_facilities_found">No facilities found for this station.</string>
+
+    <!-- Route Timeline Details -->
+    <string name="arrival">Arrival</string>
+    <string name="departure">Departure</string>
+    <string name="arrival_format">Arrival: %1$s</string>
+    <string name="departure_format">Departure: %1$s</string>
+    <string name="platform_format">PF: %1$s</string>
+    <string name="time_range_format">Arr: %1$s | Dep: %2$s</string>
+    <string name="arrival_short">Arr: %1$s</string>
+    <string name="departure_short">Dep: %1$s</string>
+
+    <!-- Facilities Details -->
+    <string name="location_label">Location</string>
+    <string name="distance_label">Distance</string>
+    <string name="availability_label">Availability</string>
+    <string name="landmark_label">Nearby Landmark</string>
+    <string name="water_title">Water Facility</string>
+    <string name="restroom_title">Restroom</string>
+    <string name="food_court_title">Food Court</string>
+    <string name="ticket_counter_title">Ticket Counter</string>
+    <string name="exit_gate_title">Exit Gate</string>
+    <string name="nearest_police_format">Nearest Help: %1$s</string>
+    <string name="ladies_extra_info">Security: %1$s\nPolice: %2$s\nWashroom: %3$s</string>
+    <string name="audio_guide_format">%1$s coach stops near the %2$s.</string>
+    <string name="select_coach_error">Please select a coach first</string>
+    <string name="loading_audio">Loading Audio...</string>
+    <string name="service_description">Service Description</string>
+    <string name="feedback_accessible">Feedback &amp; Support</string>
+    <string name="high_contrast_tip">Enable High Contrast for better visibility</string>
+</resources>

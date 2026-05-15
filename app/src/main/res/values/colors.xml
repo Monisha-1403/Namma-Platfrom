@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="navy_blue">#071A52</color>
+    <color name="navy_light">#102A6A</color>
+    <color name="railway_yellow">#FFD700</color>
+    <color name="white">#FFFFFF</color>
+    <color name="green">#00C853</color>
+    <color name="red">#FF4C4C</color>
+    <color name="black">#000000</color>
+    <color name="gray">#808080</color>
+    <color name="glass_white">#20FFFFFF</color>
+
+    <!-- Coach Layout Colors -->
+    <color name="coach_gen">#FFD700</color>
+    <color name="coach_sleeper">#2196F3</color>
+    <color name="coach_ladies">#FF4081</color>
+    <color name="coach_engine">#607D8B</color>
+    <color name="coach_ac">#E3F2FD</color>
+    <color name="coach_disabled">#9E9E9E</color>
+    <color name="railway_blue">#1976D2</color>
+
+    <!-- Semantic Colors for Theme -->
+    <color name="app_bg">#FFFDD0</color> <!-- Light Cream -->
+    <color name="app_card_bg">#FFFFFF</color>
+    <color name="app_text">#071A52</color>
+    <color name="cream">#FFFDD0</color>
+</resources>

@@ -1,0 +1,1001 @@
+[
+  {
+    "trainId": "T1",
+    "stationNameEnglish": "Bengaluru",
+    "stationNameKannada": "ಬೆಂಗಳೂರು",
+    "arrival": "-",
+    "departure": "06:30 AM",
+    "platform": "1",
+    "sequence": 1
+  },
+  {
+    "trainId": "T1",
+    "stationNameEnglish": "Kengeri",
+    "stationNameKannada": "ಕೆಂಗೇರಿ",
+    "arrival": "07:00 AM",
+    "departure": "07:02 AM",
+    "platform": "2",
+    "sequence": 2
+  },
+  {
+    "trainId": "T1",
+    "stationNameEnglish": "Ramanagara",
+    "stationNameKannada": "ರಾಮನಗರ",
+    "arrival": "07:30 AM",
+    "departure": "07:31 AM",
+    "platform": "1",
+    "sequence": 3
+  },
+  {
+    "trainId": "T1",
+    "stationNameEnglish": "Channapatna",
+    "stationNameKannada": "ಚನ್ನಪಟ್ಟಣ",
+    "arrival": "07:45 AM",
+    "departure": "07:46 AM",
+    "platform": "1",
+    "sequence": 4
+  },
+  {
+    "trainId": "T1",
+    "stationNameEnglish": "Maddur",
+    "stationNameKannada": "ಮದ್ದೂರು",
+    "arrival": "08:00 AM",
+    "departure": "08:01 AM",
+    "platform": "2",
+    "sequence": 5
+  },
+  {
+    "trainId": "T1",
+    "stationNameEnglish": "Mandya",
+    "stationNameKannada": "ಮಂಡ್ಯ",
+    "arrival": "08:15 AM",
+    "departure": "08:17 AM",
+    "platform": "2",
+    "sequence": 6
+  },
+  {
+    "trainId": "T1",
+    "stationNameEnglish": "Mysuru",
+    "stationNameKannada": "ಮೈಸೂರು",
+    "arrival": "09:30 AM",
+    "departure": "-",
+    "platform": "1",
+    "sequence": 7
+  },
+  {
+    "trainId": "T2",
+    "stationNameEnglish": "Mysuru",
+    "stationNameKannada": "ಮೈಸೂರು",
+    "arrival": "-",
+    "departure": "10:45 AM",
+    "platform": "1",
+    "sequence": 1
+  },
+  {
+    "trainId": "T2",
+    "stationNameEnglish": "Mandya",
+    "stationNameKannada": "ಮಂಡ್ಯ",
+    "arrival": "11:20 AM",
+    "departure": "11:22 AM",
+    "platform": "2",
+    "sequence": 2
+  },
+  {
+    "trainId": "T2",
+    "stationNameEnglish": "Kengeri",
+    "stationNameKannada": "ಕೆಂಗೇರಿ",
+    "arrival": "12:30 PM",
+    "departure": "12:32 PM",
+    "platform": "2",
+    "sequence": 3
+  },
+  {
+    "trainId": "T2",
+    "stationNameEnglish": "Bengaluru",
+    "stationNameKannada": "ಬೆಂಗಳೂರು",
+    "arrival": "01:00 PM",
+    "departure": "-",
+    "platform": "1",
+    "sequence": 4
+  },
+  {
+    "trainId": "T3",
+    "stationNameEnglish": "Mysuru",
+    "stationNameKannada": "ಮೈಸೂರು",
+    "arrival": "-",
+    "departure": "11:10 AM",
+    "platform": "3",
+    "sequence": 1
+  },
+  {
+    "trainId": "T3",
+    "stationNameEnglish": "Mandya",
+    "stationNameKannada": "ಮಂಡ್ಯ",
+    "arrival": "11:55 AM",
+    "departure": "11:57 AM",
+    "platform": "2",
+    "sequence": 2
+  },
+  {
+    "trainId": "T3",
+    "stationNameEnglish": "Maddur",
+    "stationNameKannada": "ಮದ್ದೂರು",
+    "arrival": "12:15 PM",
+    "departure": "12:16 PM",
+    "platform": "2",
+    "sequence": 3
+  },
+  {
+    "trainId": "T3",
+    "stationNameEnglish": "Channapatna",
+    "stationNameKannada": "ಚನ್ನಪಟ್ಟಣ",
+    "arrival": "12:30 PM",
+    "departure": "12:31 PM",
+    "platform": "1",
+    "sequence": 4
+  },
+  {
+    "trainId": "T3",
+    "stationNameEnglish": "Ramanagara",
+    "stationNameKannada": "ರಾಮನಗರ",
+    "arrival": "12:45 PM",
+    "departure": "12:46 PM",
+    "platform": "1",
+    "sequence": 5
+  },
+  {
+    "trainId": "T3",
+    "stationNameEnglish": "Kengeri",
+    "stationNameKannada": "ಕೆಂಗೇರಿ",
+    "arrival": "01:15 PM",
+    "departure": "01:17 PM",
+    "platform": "2",
+    "sequence": 6
+  },
+  {
+    "trainId": "T3",
+    "stationNameEnglish": "Bengaluru",
+    "stationNameKannada": "ಬೆಂಗಳೂರು",
+    "arrival": "01:45 PM",
+    "departure": "-",
+    "platform": "5",
+    "sequence": 7
+  },
+  {
+    "trainId": "T4",
+    "stationNameEnglish": "Mysuru",
+    "stationNameKannada": "ಮೈಸೂರು",
+    "arrival": "-",
+    "departure": "12:00 PM",
+    "platform": "4",
+    "sequence": 1
+  },
+  {
+    "trainId": "T4",
+    "stationNameEnglish": "Mandya",
+    "stationNameKannada": "ಮಂಡ್ಯ",
+    "arrival": "12:45 PM",
+    "departure": "12:47 PM",
+    "platform": "2",
+    "sequence": 2
+  },
+  {
+    "trainId": "T4",
+    "stationNameEnglish": "Maddur",
+    "stationNameKannada": "ಮದ್ದೂರು",
+    "arrival": "01:05 PM",
+    "departure": "01:06 PM",
+    "platform": "2",
+    "sequence": 3
+  },
+  {
+    "trainId": "T4",
+    "stationNameEnglish": "Channapatna",
+    "stationNameKannada": "ಚನ್ನಪಟ್ಟಣ",
+    "arrival": "01:20 PM",
+    "departure": "01:21 PM",
+    "platform": "1",
+    "sequence": 4
+  },
+  {
+    "trainId": "T4",
+    "stationNameEnglish": "Ramanagara",
+    "stationNameKannada": "ರಾಮನಗರ",
+    "arrival": "01:35 PM",
+    "departure": "01:36 PM",
+    "platform": "1",
+    "sequence": 5
+  },
+  {
+    "trainId": "T4",
+    "stationNameEnglish": "Kengeri",
+    "stationNameKannada": "ಕೆಂಗೇರಿ",
+    "arrival": "02:05 PM",
+    "departure": "02:07 PM",
+    "platform": "2",
+    "sequence": 6
+  },
+  {
+    "trainId": "T4",
+    "stationNameEnglish": "Bengaluru",
+    "stationNameKannada": "ಬೆಂಗಳೂರು",
+    "arrival": "02:30 PM",
+    "departure": "-",
+    "platform": "3",
+    "sequence": 7
+  },
+  {
+    "trainId": "T5",
+    "stationNameEnglish": "Mysuru",
+    "stationNameKannada": "ಮೈಸೂರು",
+    "arrival": "-",
+    "departure": "12:15 PM",
+    "platform": "1",
+    "sequence": 1
+  },
+  {
+    "trainId": "T5",
+    "stationNameEnglish": "Mandya",
+    "stationNameKannada": "ಮಂಡ್ಯ",
+    "arrival": "12:55 PM",
+    "departure": "12:57 PM",
+    "platform": "1",
+    "sequence": 2
+  },
+  {
+    "trainId": "T5",
+    "stationNameEnglish": "Bengaluru",
+    "stationNameKannada": "ಬೆಂಗಳೂರು",
+    "arrival": "02:15 PM",
+    "departure": "-",
+    "platform": "7",
+    "sequence": 3
+  },
+  {
+    "trainId": "T6",
+    "stationNameEnglish": "Bengaluru",
+    "stationNameKannada": "ಬೆಂಗಳೂರು",
+    "arrival": "-",
+    "departure": "09:15 AM",
+    "platform": "4",
+    "sequence": 1
+  },
+  {
+    "trainId": "T6",
+    "stationNameEnglish": "Tumakuru",
+    "stationNameKannada": "ತುಮಕೂರು",
+    "arrival": "10:15 AM",
+    "departure": "10:17 AM",
+    "platform": "1",
+    "sequence": 2
+  },
+  {
+    "trainId": "T6",
+    "stationNameEnglish": "Arsikere",
+    "stationNameKannada": "ಅರಸೀಕೆರೆ",
+    "arrival": "11:30 AM",
+    "departure": "11:35 AM",
+    "platform": "2",
+    "sequence": 3
+  },
+  {
+    "trainId": "T6",
+    "stationNameEnglish": "Birur",
+    "stationNameKannada": "ಬೀರೂರು",
+    "arrival": "12:15 PM",
+    "departure": "12:17 PM",
+    "platform": "1",
+    "sequence": 4
+  },
+  {
+    "trainId": "T6",
+    "stationNameEnglish": "Davangere",
+    "stationNameKannada": "ದಾವಣಗೆರೆ",
+    "arrival": "01:45 PM",
+    "departure": "01:47 PM",
+    "platform": "1",
+    "sequence": 5
+  },
+  {
+    "trainId": "T6",
+    "stationNameEnglish": "Harihar",
+    "stationNameKannada": "ಹರಿಹರ",
+    "arrival": "02:05 PM",
+    "departure": "02:07 PM",
+    "platform": "1",
+    "sequence": 6
+  },
+  {
+    "trainId": "T6",
+    "stationNameEnglish": "Hubballi",
+    "stationNameKannada": "ಹುಬ್ಬಳ್ಳಿ",
+    "arrival": "03:50 PM",
+    "departure": "04:00 PM",
+    "platform": "1",
+    "sequence": 7
+  },
+  {
+    "trainId": "T6",
+    "stationNameEnglish": "Dharwad",
+    "stationNameKannada": "ಧಾರವಾಡ",
+    "arrival": "04:30 PM",
+    "departure": "04:32 PM",
+    "platform": "1",
+    "sequence": 8
+  },
+  {
+    "trainId": "T6",
+    "stationNameEnglish": "Londa",
+    "stationNameKannada": "ಲೋಂಡಾ",
+    "arrival": "06:15 PM",
+    "departure": "06:17 PM",
+    "platform": "1",
+    "sequence": 9
+  },
+  {
+    "trainId": "T6",
+    "stationNameEnglish": "Belagavi",
+    "stationNameKannada": "ಬೆಳಗಾವಿ",
+    "arrival": "07:30 PM",
+    "departure": "-",
+    "platform": "1",
+    "sequence": 10
+  },
+  {
+    "trainId": "T7",
+    "stationNameEnglish": "Bengaluru",
+    "stationNameKannada": "ಬೆಂಗಳೂರು",
+    "arrival": "-",
+    "departure": "07:30 PM",
+    "platform": "7",
+    "sequence": 1
+  },
+  {
+    "trainId": "T7",
+    "stationNameEnglish": "Tumakuru",
+    "stationNameKannada": "ತುಮಕೂರು",
+    "arrival": "08:30 PM",
+    "departure": "08:32 PM",
+    "platform": "2",
+    "sequence": 2
+  },
+  {
+    "trainId": "T7",
+    "stationNameEnglish": "Arsikere",
+    "stationNameKannada": "ಅರಸೀಕೆರೆ",
+    "arrival": "10:15 PM",
+    "departure": "10:20 PM",
+    "platform": "1",
+    "sequence": 3
+  },
+  {
+    "trainId": "T7",
+    "stationNameEnglish": "Davangere",
+    "stationNameKannada": "ದಾವಣಗೆರೆ",
+    "arrival": "11:45 PM",
+    "departure": "11:47 PM",
+    "platform": "1",
+    "sequence": 4
+  },
+  {
+    "trainId": "T7",
+    "stationNameEnglish": "Hubballi",
+    "stationNameKannada": "ಹುಬ್ಬಳ್ಳಿ",
+    "arrival": "01:15 AM",
+    "departure": "-",
+    "platform": "1",
+    "sequence": 5
+  },
+  {
+    "trainId": "T8",
+    "stationNameEnglish": "Bengaluru",
+    "stationNameKannada": "ಬೆಂಗಳೂರು",
+    "arrival": "-",
+    "departure": "02:30 PM",
+    "platform": "2",
+    "sequence": 1
+  },
+  {
+    "trainId": "T8",
+    "stationNameEnglish": "Kengeri",
+    "stationNameKannada": "ಕೆಂಗೇರಿ",
+    "arrival": "03:00 PM",
+    "departure": "03:02 PM",
+    "platform": "2",
+    "sequence": 2
+  },
+  {
+    "trainId": "T8",
+    "stationNameEnglish": "Mandya",
+    "stationNameKannada": "ಮಂಡ್ಯ",
+    "arrival": "04:15 PM",
+    "departure": "04:17 PM",
+    "platform": "1",
+    "sequence": 3
+  },
+  {
+    "trainId": "T8",
+    "stationNameEnglish": "Mysuru",
+    "stationNameKannada": "ಮೈಸೂರು",
+    "arrival": "05:30 PM",
+    "departure": "-",
+    "platform": "2",
+    "sequence": 4
+  },
+  {
+    "trainId": "T9",
+    "stationNameEnglish": "Bengaluru",
+    "stationNameKannada": "ಬೆಂಗಳೂರು",
+    "arrival": "-",
+    "departure": "09:10 PM",
+    "platform": "5",
+    "sequence": 1
+  },
+  {
+    "trainId": "T9",
+    "stationNameEnglish": "Tumakuru",
+    "stationNameKannada": "ತುಮಕೂರು",
+    "arrival": "10:10 PM",
+    "departure": "10:12 PM",
+    "platform": "1",
+    "sequence": 2
+  },
+  {
+    "trainId": "T9",
+    "stationNameEnglish": "Hubballi",
+    "stationNameKannada": "ಹುಬ್ಬಳ್ಳಿ",
+    "arrival": "03:30 AM",
+    "departure": "03:40 AM",
+    "platform": "2",
+    "sequence": 3
+  },
+  {
+    "trainId": "T9",
+    "stationNameEnglish": "Belagavi",
+    "stationNameKannada": "ಬೆಳಗಾವಿ",
+    "arrival": "06:15 AM",
+    "departure": "-",
+    "platform": "1",
+    "sequence": 4
+  },
+  {
+    "trainId": "T10",
+    "stationNameEnglish": "Bengaluru",
+    "stationNameKannada": "ಬೆಂಗಳೂರು",
+    "arrival": "-",
+    "departure": "08:30 PM",
+    "platform": "3",
+    "sequence": 1
+  },
+  {
+    "trainId": "T10",
+    "stationNameEnglish": "Mandya",
+    "stationNameKannada": "ಮಂಡ್ಯ",
+    "arrival": "09:45 PM",
+    "departure": "09:46 PM",
+    "platform": "2",
+    "sequence": 2
+  },
+  {
+    "trainId": "T10",
+    "stationNameEnglish": "Mysuru",
+    "stationNameKannada": "ಮೈಸೂರು",
+    "arrival": "11:00 PM",
+    "departure": "-",
+    "platform": "1",
+    "sequence": 3
+  },
+  {
+    "trainId": "T11",
+    "stationNameEnglish": "Mysuru",
+    "stationNameKannada": "ಮೈಸೂರು",
+    "arrival": "-",
+    "departure": "08:05 AM",
+    "platform": "1",
+    "sequence": 1
+  },
+  {
+    "trainId": "T11",
+    "stationNameEnglish": "Srirangapatna",
+    "stationNameKannada": "ಶ್ರೀರಂಗಪಟ್ಟಣ",
+    "arrival": "08:25 AM",
+    "departure": "08:26 AM",
+    "platform": "1",
+    "sequence": 2
+  },
+  {
+    "trainId": "T11",
+    "stationNameEnglish": "Pandavapura",
+    "stationNameKannada": "ಪಾಂಡವಪುರ",
+    "arrival": "08:35 AM",
+    "departure": "08:36 AM",
+    "platform": "1",
+    "sequence": 3
+  },
+  {
+    "trainId": "T11",
+    "stationNameEnglish": "Mandya",
+    "stationNameKannada": "ಮಂಡ್ಯ",
+    "arrival": "09:05 AM",
+    "departure": "09:07 AM",
+    "platform": "1",
+    "sequence": 4
+  },
+  {
+    "trainId": "T11",
+    "stationNameEnglish": "Maddur",
+    "stationNameKannada": "ಮದ್ದೂರು",
+    "arrival": "09:25 AM",
+    "departure": "09:26 AM",
+    "platform": "1",
+    "sequence": 5
+  },
+  {
+    "trainId": "T11",
+    "stationNameEnglish": "Channapatna",
+    "stationNameKannada": "ಚನ್ನಪಟ್ಟಣ",
+    "arrival": "09:45 AM",
+    "departure": "09:46 AM",
+    "platform": "1",
+    "sequence": 6
+  },
+  {
+    "trainId": "T11",
+    "stationNameEnglish": "Ramanagara",
+    "stationNameKannada": "ರಾಮನಗರ",
+    "arrival": "10:00 AM",
+    "departure": "10:01 AM",
+    "platform": "1",
+    "sequence": 7
+  },
+  {
+    "trainId": "T11",
+    "stationNameEnglish": "Kengeri",
+    "stationNameKannada": "ಕೆಂಗೇರಿ",
+    "arrival": "10:35 AM",
+    "departure": "10:37 AM",
+    "platform": "1",
+    "sequence": 8
+  },
+  {
+    "trainId": "T11",
+    "stationNameEnglish": "Bengaluru",
+    "stationNameKannada": "ಬೆಂಗಳೂರು",
+    "arrival": "11:15 AM",
+    "departure": "-",
+    "platform": "1",
+    "sequence": 9
+  },
+  {
+    "trainId": "T12",
+    "stationNameEnglish": "Mysuru",
+    "stationNameKannada": "ಮೈಸೂರು",
+    "arrival": "-",
+    "departure": "12:30 PM",
+    "platform": "1",
+    "sequence": 1
+  },
+  {
+    "trainId": "T12",
+    "stationNameEnglish": "Mandya",
+    "stationNameKannada": "ಮಂಡ್ಯ",
+    "arrival": "01:20 PM",
+    "departure": "01:25 PM",
+    "platform": "3",
+    "sequence": 2
+  },
+  {
+    "trainId": "T12",
+    "stationNameEnglish": "Maddur",
+    "stationNameKannada": "ಮದ್ದೂರು",
+    "arrival": "01:45 PM",
+    "departure": "01:46 PM",
+    "platform": "2",
+    "sequence": 3
+  },
+  {
+    "trainId": "T12",
+    "stationNameEnglish": "Channapatna",
+    "stationNameKannada": "ಚನ್ನಪಟ್ಟಣ",
+    "arrival": "02:00 PM",
+    "departure": "02:01 PM",
+    "platform": "1",
+    "sequence": 4
+  },
+  {
+    "trainId": "T12",
+    "stationNameEnglish": "Ramanagara",
+    "stationNameKannada": "ರಾಮನಗರ",
+    "arrival": "02:15 PM",
+    "departure": "02:16 PM",
+    "platform": "1",
+    "sequence": 5
+  },
+  {
+    "trainId": "T12",
+    "stationNameEnglish": "Kengeri",
+    "stationNameKannada": "ಕೆಂಗೇರಿ",
+    "arrival": "02:45 PM",
+    "departure": "02:47 PM",
+    "platform": "2",
+    "sequence": 6
+  },
+  {
+    "trainId": "T12",
+    "stationNameEnglish": "Bengaluru",
+    "stationNameKannada": "ಬೆಂಗಳೂರು",
+    "arrival": "03:15 PM",
+    "departure": "-",
+    "platform": "4",
+    "sequence": 7
+  },
+  {
+    "trainId": "T13",
+    "stationNameEnglish": "Bengaluru",
+    "stationNameKannada": "ಬೆಂಗಳೂರು",
+    "arrival": "-",
+    "departure": "06:15 AM",
+    "platform": "3",
+    "sequence": 1
+  },
+  {
+    "trainId": "T13",
+    "stationNameEnglish": "Kengeri",
+    "stationNameKannada": "ಕೆಂಗೇರಿ",
+    "arrival": "06:45 AM",
+    "departure": "06:47 AM",
+    "platform": "2",
+    "sequence": 2
+  },
+  {
+    "trainId": "T13",
+    "stationNameEnglish": "Ramanagara",
+    "stationNameKannada": "ರಾಮನಗರ",
+    "arrival": "07:15 AM",
+    "departure": "07:16 AM",
+    "platform": "1",
+    "sequence": 3
+  },
+  {
+    "trainId": "T13",
+    "stationNameEnglish": "Channapatna",
+    "stationNameKannada": "ಚನ್ನಪಟ್ಟಣ",
+    "arrival": "07:30 AM",
+    "departure": "07:31 AM",
+    "platform": "1",
+    "sequence": 4
+  },
+  {
+    "trainId": "T13",
+    "stationNameEnglish": "Maddur",
+    "stationNameKannada": "ಮದ್ದೂರು",
+    "arrival": "07:45 AM",
+    "departure": "07:50 AM",
+    "platform": "2",
+    "sequence": 5
+  },
+  {
+    "trainId": "T13",
+    "stationNameEnglish": "Mandya",
+    "stationNameKannada": "ಮಂಡ್ಯ",
+    "arrival": "08:05 AM",
+    "departure": "08:07 AM",
+    "platform": "1",
+    "sequence": 6
+  },
+  {
+    "trainId": "T13",
+    "stationNameEnglish": "Mysuru",
+    "stationNameKannada": "ಮೈಸೂರು",
+    "arrival": "09:00 AM",
+    "departure": "-",
+    "platform": "2",
+    "sequence": 7
+  },
+  {
+    "trainId": "T14",
+    "stationNameEnglish": "Mysuru",
+    "stationNameKannada": "ಮೈಸೂರು",
+    "arrival": "-",
+    "departure": "11:35 AM",
+    "platform": "1",
+    "sequence": 1
+  },
+  {
+    "trainId": "T14",
+    "stationNameEnglish": "Mandya",
+    "stationNameKannada": "ಮಂಡ್ಯ",
+    "arrival": "12:15 PM",
+    "departure": "12:17 PM",
+    "platform": "1",
+    "sequence": 2
+  },
+  {
+    "trainId": "T14",
+    "stationNameEnglish": "Bengaluru",
+    "stationNameKannada": "ಬೆಂಗಳೂರು",
+    "arrival": "01:45 PM",
+    "departure": "-",
+    "platform": "1",
+    "sequence": 3
+  },
+  {
+    "trainId": "T15",
+    "stationNameEnglish": "Hubballi",
+    "stationNameKannada": "ಹುಬ್ಬಳ್ಳಿ",
+    "arrival": "-",
+    "departure": "04:30 PM",
+    "platform": "2",
+    "sequence": 1
+  },
+  {
+    "trainId": "T15",
+    "stationNameEnglish": "Davangere",
+    "stationNameKannada": "ದಾವಣಗೆರೆ",
+    "arrival": "06:30 PM",
+    "departure": "06:32 PM",
+    "platform": "1",
+    "sequence": 2
+  },
+  {
+    "trainId": "T15",
+    "stationNameEnglish": "Bengaluru",
+    "stationNameKannada": "ಬೆಂಗಳೂರು",
+    "arrival": "10:00 PM",
+    "departure": "10:15 PM",
+    "platform": "4",
+    "sequence": 3
+  },
+  {
+    "trainId": "T15",
+    "stationNameEnglish": "Mandya",
+    "stationNameKannada": "ಮಂಡ್ಯ",
+    "arrival": "11:45 PM",
+    "departure": "11:46 PM",
+    "platform": "1",
+    "sequence": 4
+  },
+  {
+    "trainId": "T15",
+    "stationNameEnglish": "Mysuru",
+    "stationNameKannada": "ಮೈಸೂರು",
+    "arrival": "01:00 AM",
+    "departure": "-",
+    "platform": "1",
+    "sequence": 5
+  },
+  {
+    "trainId": "T16",
+    "stationNameEnglish": "Bengaluru",
+    "stationNameKannada": "ಬೆಂಗಳೂರು",
+    "arrival": "-",
+    "departure": "03:10 PM",
+    "platform": "8",
+    "sequence": 1
+  },
+  {
+    "trainId": "T16",
+    "stationNameEnglish": "Tumakuru",
+    "stationNameKannada": "ತುಮಕೂರು",
+    "arrival": "04:10 PM",
+    "departure": "04:12 PM",
+    "platform": "1",
+    "sequence": 2
+  },
+  {
+    "trainId": "T16",
+    "stationNameEnglish": "Arsikere",
+    "stationNameKannada": "ಅರಸೀಕೆರೆ",
+    "arrival": "05:30 PM",
+    "departure": "05:35 PM",
+    "platform": "2",
+    "sequence": 3
+  },
+  {
+    "trainId": "T16",
+    "stationNameEnglish": "Shivamogga",
+    "stationNameKannada": "ಶಿವಮೊಗ್ಗ",
+    "arrival": "07:30 PM",
+    "departure": "-",
+    "platform": "1",
+    "sequence": 4
+  },
+  {
+    "trainId": "T17",
+    "stationNameEnglish": "Hubballi",
+    "stationNameKannada": "ಹುಬ್ಬಳ್ಳಿ",
+    "arrival": "-",
+    "departure": "01:50 PM",
+    "platform": "6",
+    "sequence": 1
+  },
+  {
+    "trainId": "T17",
+    "stationNameEnglish": "Davangere",
+    "stationNameKannada": "ದಾವಣಗೆರೆ",
+    "arrival": "03:45 PM",
+    "departure": "03:47 PM",
+    "platform": "1",
+    "sequence": 2
+  },
+  {
+    "trainId": "T17",
+    "stationNameEnglish": "Arsikere",
+    "stationNameKannada": "ಅರಸೀಕೆರೆ",
+    "arrival": "05:45 PM",
+    "departure": "05:50 PM",
+    "platform": "2",
+    "sequence": 3
+  },
+  {
+    "trainId": "T17",
+    "stationNameEnglish": "Bengaluru",
+    "stationNameKannada": "ಬೆಂಗಳೂರು",
+    "arrival": "08:30 PM",
+    "departure": "-",
+    "platform": "5",
+    "sequence": 4
+  },
+  {
+    "trainId": "T18",
+    "stationNameEnglish": "Hassan",
+    "stationNameKannada": "ಹಾಸನ",
+    "arrival": "-",
+    "departure": "07:35 AM",
+    "platform": "1",
+    "sequence": 1
+  },
+  {
+    "trainId": "T18",
+    "stationNameEnglish": "Nelamangala",
+    "stationNameKannada": "ನೆಲಮಂಗಲ",
+    "arrival": "09:30 AM",
+    "departure": "09:32 AM",
+    "platform": "1",
+    "sequence": 2
+  },
+  {
+    "trainId": "T18",
+    "stationNameEnglish": "Bengaluru",
+    "stationNameKannada": "ಬೆಂಗಳೂರು",
+    "arrival": "10:30 AM",
+    "departure": "-",
+    "platform": "2",
+    "sequence": 3
+  },
+  {
+    "trainId": "T19",
+    "stationNameEnglish": "Hubballi",
+    "stationNameKannada": "ಹುಬ್ಬಳ್ಳಿ",
+    "arrival": "-",
+    "departure": "06:30 PM",
+    "platform": "2",
+    "sequence": 1
+  },
+  {
+    "trainId": "T19",
+    "stationNameEnglish": "Haveri",
+    "stationNameKannada": "ಹಾವೇರಿ",
+    "arrival": "07:45 PM",
+    "departure": "07:46 PM",
+    "platform": "1",
+    "sequence": 2
+  },
+  {
+    "trainId": "T19",
+    "stationNameEnglish": "Bengaluru",
+    "stationNameKannada": "ಬೆಂಗಳೂರು",
+    "arrival": "02:30 AM",
+    "departure": "-",
+    "platform": "1",
+    "sequence": 3
+  },
+  {
+    "trainId": "T20",
+    "stationNameEnglish": "Mangalore",
+    "stationNameKannada": "ಮಂಗಳೂರು",
+    "arrival": "-",
+    "departure": "08:25 PM",
+    "platform": "1",
+    "sequence": 1
+  },
+  {
+    "trainId": "T20",
+    "stationNameEnglish": "Hassan",
+    "stationNameKannada": "ಹಾಸನ",
+    "arrival": "01:30 AM",
+    "departure": "01:35 AM",
+    "platform": "1",
+    "sequence": 2
+  },
+  {
+    "trainId": "T20",
+    "stationNameEnglish": "Bengaluru",
+    "stationNameKannada": "ಬೆಂಗಳೂರು",
+    "arrival": "04:30 AM",
+    "departure": "-",
+    "platform": "4",
+    "sequence": 3
+  },
+  {
+    "trainId": "T21",
+    "stationNameEnglish": "Belagavi",
+    "stationNameKannada": "ಬೆಳಗಾವಿ",
+    "arrival": "-",
+    "departure": "09:10 PM",
+    "platform": "1",
+    "sequence": 1
+  },
+  {
+    "trainId": "T21",
+    "stationNameEnglish": "Hubballi",
+    "stationNameKannada": "ಹುಬ್ಬಳ್ಳಿ",
+    "arrival": "11:30 PM",
+    "departure": "11:40 PM",
+    "platform": "1",
+    "sequence": 2
+  },
+  {
+    "trainId": "T21",
+    "stationNameEnglish": "Bengaluru",
+    "stationNameKannada": "ಬೆಂಗಳೂರು",
+    "arrival": "06:30 AM",
+    "departure": "-",
+    "platform": "9",
+    "sequence": 3
+  },
+  {
+    "trainId": "T22",
+    "stationNameEnglish": "Bengaluru",
+    "stationNameKannada": "ಬೆಂಗಳೂರು",
+    "arrival": "-",
+    "departure": "05:55 AM",
+    "platform": "5",
+    "sequence": 1
+  },
+  {
+    "trainId": "T22",
+    "stationNameEnglish": "Mandya",
+    "stationNameKannada": "ಮಂಡ್ಯ",
+    "arrival": "07:30 AM",
+    "departure": "07:32 AM",
+    "platform": "2",
+    "sequence": 2
+  },
+  {
+    "trainId": "T22",
+    "stationNameEnglish": "Mysuru",
+    "stationNameKannada": "ಮೈಸೂರು",
+    "arrival": "08:45 AM",
+    "departure": "-",
+    "platform": "1",
+    "sequence": 3
+  },
+  {
+    "trainId": "T23",
+    "stationNameEnglish": "Mysuru",
+    "stationNameKannada": "ಮೈಸೂರು",
+    "arrival": "-",
+    "departure": "08:25 AM",
+    "platform": "3",
+    "sequence": 1
+  },
+  {
+    "trainId": "T23",
+    "stationNameEnglish": "Mandya",
+    "stationNameKannada": "ಮಂಡ್ಯ",
+    "arrival": "09:10 AM",
+    "departure": "09:12 AM",
+    "platform": "1",
+    "sequence": 2
+  },
+  {
+    "trainId": "T23",
+    "stationNameEnglish": "Bengaluru",
+    "stationNameKannada": "ಬೆಂಗಳೂರು",
+    "arrival": "11:00 AM",
+    "departure": "-",
+    "platform": "2",
+    "sequence": 3
+  }
+]

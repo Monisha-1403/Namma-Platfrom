@@ -1,0 +1,26 @@
+[
+  {
+    "announcementId": "A1",
+    "junctionId": "MYS",
+    "messageEn": "Lalbagh Express arriving on Platform 2",
+    "messageKn": "ಲಾಲ್‌ಬಾಗ್ ಎಕ್ಸ್‌ಪ್ರೆಸ್ ಪ್ಲಾಟ್‌ಫಾರ್ಮ್ 2ಕ್ಕೆ ಬರುತ್ತಿದೆ",
+    "type": "NextTrain",
+    "timestamp": 1712040000000
+  },
+  {
+    "announcementId": "A2",
+    "junctionId": "SBC",
+    "messageEn": "Karnataka Express arriving on Platform 4",
+    "messageKn": "ಕರ್ನಾಟಕ ಎಕ್ಸ್‌ಪ್ರೆಸ್ ಪ್ಲಾಟ್‌ಫಾರ್ಮ್ 4ಕ್ಕೆ ಬರುತ್ತಿದೆ",
+    "type": "NextTrain",
+    "timestamp": 1712041000000
+  },
+  {
+    "announcementId": "A3",
+    "junctionId": "MYA",
+    "messageEn": "Mandya Passenger Express arriving on Platform 1",
+    "messageKn": "ಮಂಡ್ಯ ಪ್ಯಾಸೆಂಜರ್ ಎಕ್ಸ್‌ಪ್ರೆಸ್ ಪ್ಲಾಟ್‌ಫಾರ್ಮ್ 1ಕ್ಕೆ ಬರುತ್ತಿದೆ",
+    "type": "NextTrain",
+    "timestamp": 1712042000000
+  }
+]

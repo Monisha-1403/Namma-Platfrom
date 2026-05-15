@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.NammaPlatform" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">#FFD700</item>
+        <item name="colorOnPrimary">#071A52</item>
+        <item name="colorSecondary">#FFD700</item>
+        <item name="colorOnSecondary">#071A52</item>
+        <item name="android:statusBarColor">#000000</item>
+        <item name="android:windowBackground">#071A52</item>
+        <item name="android:textColorPrimary">#FFFFFF</item>
+    </style>
+
+    <style name="Theme.NammaPlatform.Splash" parent="Theme.NammaPlatform">
+        <item name="android:windowBackground">@color/app_bg</item>
+    </style>
+</resources>

@@ -1,0 +1,38 @@
+[
+  {
+    "stationName": "Mysuru",
+    "arrivalTime": "09:00 AM",
+    "departureTime": "09:10 AM",
+    "platformNumber": "1"
+  },
+  {
+    "stationName": "Mandya",
+    "arrivalTime": "09:45 AM",
+    "departureTime": "09:48 AM",
+    "platformNumber": "2"
+  },
+  {
+    "stationName": "Maddur",
+    "arrivalTime": "10:05 AM",
+    "departureTime": "10:07 AM",
+    "platformNumber": "1"
+  },
+  {
+    "stationName": "Ramanagara",
+    "arrivalTime": "10:30 AM",
+    "departureTime": "10:32 AM",
+    "platformNumber": "3"
+  },
+  {
+    "stationName": "Kengeri",
+    "arrivalTime": "10:55 AM",
+    "departureTime": "10:57 AM",
+    "platformNumber": "2"
+  },
+  {
+    "stationName": "Bengaluru",
+    "arrivalTime": "11:30 AM",
+    "departureTime": "-",
+    "platformNumber": "5"
+  }
+]

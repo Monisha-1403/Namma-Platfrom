@@ -1,0 +1,146 @@
+<resources>
+    <string name="app_name">ನಮ್ಮ ಪ್ಲಾಟ್‌ಫಾರ್ಮ್</string>
+    <string name="app_name_full">NAMMA-PLATFORM\nನಮ್ಮ ಪ್ಲಾಟ್‌ಫಾರ್ಮ್</string>
+    <string name="tagline">ಎಲ್ಲರಿಗೂ ಸ್ಮಾರ್ಟ್ ರೈಲ್ವೆ ಮಾರ್ಗದರ್ಶನ</string>
+    <string name="tagline_extended">ಗ್ರಾಮೀಣ ಪ್ರಯಾಣಿಕರಿಗಾಗಿ ಸ್ಮಾರ್ಟ್ ರೈಲ್ವೆ ಸಹಾಯಕ</string>
+    <string name="kannada">ಕನ್ನಡ</string>
+    <string name="english">English</string>
+    <string name="select_language">ಭಾಷೆಯನ್ನು ಆಯ್ಕೆ ಮಾಡಿ</string>
+    <string name="login">ಲಾಗಿನ್</string>
+    <string name="name_hint">ಹೆಸರು ನಮೂದಿಸಿ</string>
+    <string name="phone_hint">ಫೋನ್ ಸಂಖ್ಯೆ ನಮೂದಿಸಿ</string>
+    <string name="start_journey">ಪ್ರಯಾಣ ಪ್ರಾರಂಭಿಸಿ</string>
+    <string name="welcome">ಸುಸ್ವಾಗತ</string>
+    <string name="greeting_format">%1$s, ನಮಸ್ಕಾರ!</string>
+    <string name="finding_platform">ನಿಮಗಾಗಿ ಉತ್ತಮ ರೈಲ್ವೆ ಮಾರ್ಗದರ್ಶನವನ್ನು ಹುಡುಕಲಾಗುತ್ತಿದೆ</string>
+    <string name="continue_text">ಮುಂದುವರಿಸಿ</string>
+    <string name="dashboard">ಡ್ಯಾಶ್‌ಬೋರ್ಡ್</string>
+    <string name="current_station">ಪ್ರಸ್ತುತ ನಿಲ್ದಾಣ</string>
+    <string name="on_time">ಸರಿಯಾದ ಸಮಯಕ್ಕೆ</string>
+    <string name="delayed">ವಿಳಂಬವಾಗಿದೆ</string>
+    <string name="help_me">ಸಹಾಯ ಮಾಡಿ</string>
+    <string name="voice_placeholder">ನಿಮ್ಮ ವಿನಂತಿಯನ್ನು ಕೇಳಲಾಗುತ್ತಿದೆ...</string>
+
+    <string name="coach_layout">ಬೋಗಿ ವಿನ್ಯಾಸ</string>
+    <string name="route_timeline">ಮಾರ್ಗದ ಸಮಯದ ರೇಖೆ</string>
+    <string name="facilities">ನಿಲ್ದಾಣದ ಸೌಲಭ್ಯಗಳು</string>
+    <string name="settings">ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+    <string name="feedback">ಅಭಿಪ್ರಾಯ</string>
+    <string name="happy_journey">ಶುಭ ಪ್ರಯಾಣ</string>
+
+    <string name="shubha_prayana">ಶುಭ ಪ್ರಯಾಣ!</string>
+    <string name="safe_journey">ಸುರಕ್ಷಿತ ಪ್ರಯಾಣ ಮಾಡಿ.</string>
+    <string name="finish">ಮುಗಿಸಿ</string>
+    <string name="submit">ಸಲ್ಲಿಸಿ</string>
+    <string name="feedback_hint">ನಿಮ್ಮ ಅನುಭವದ ಬಗ್ಗೆ ನಮಗೆ ತಿಳಿಸಿ</string>
+    <string name="dark_mode">ಡಾರ್ಕ್ ಮೋಡ್</string>
+    <string name="light_mode">ಲೈಟ್ ಮೋಡ್</string>
+    <string name="high_contrast">ಹೈ ಕಾಂಟ್ರಾಸ್ಟ್</string>
+    <string name="reset_app">ಆ್ಯಪ್ ಮರುಹೊಂದಿಸಿ</string>
+    <string name="appearance">ಗೋಚರತೆ</string>
+    <string name="language">ಭಾಷೆ</string>
+    <string name="voice_accessibility">ಧ್ವನಿ ಮತ್ತು ಪ್ರವೇಶಿಸುವಿಕೆ</string>
+    <string name="seat_layout">ಆಸನ ವಿನ್ಯಾಸ</string>
+
+    <string name="coach_guide">ಬೋಗಿ ಮಾರ್ಗದರ್ಶಿ</string>
+    <string name="coach_subtitle">ನಿಮ್ಮ ಬೋಗಿಯನ್ನು ಆರಿಸಿ</string>
+    <string name="next">ಮುಂದೆ</string>
+    <string name="back">ಹಿಂದೆ</string>
+
+    <!-- Coach Details -->
+    <string name="coach_name_label">ಬೋಗಿ ಹೆಸರು</string>
+    <string name="available_seats">ಲಭ್ಯವಿರುವ ಆಸನಗಳು</string>
+    <string name="seats_format">%1$s ಆಸನಗಳು ಲಭ್ಯವಿದೆ</string>
+    <string name="crowd_intensity">ಜನಸಂದಣಿ ಮಟ್ಟ</string>
+    <string name="low_crowd">ಕಡಿಮೆ ಜನಸಂದಣಿ</string>
+    <string name="medium_crowd">ಮಧ್ಯಮ ಜನಸಂದಣಿ</string>
+    <string name="heavy_crowd">ಹೆಚ್ಚಿನ ಜನಸಂದಣಿ</string>
+    <string name="platform_position">ಪ್ಲಾಟ್‌ಫಾರ್ಮ್ ಸ್ಥಾನ</string>
+    <string name="nearest_entry">ಹತ್ತಿರದ ಪ್ರವೇಶ</string>
+    <string name="boarding_advice">ಹತ್ತುವ ಸಲಹೆ</string>
+    <string name="coach_type_label">ಬೋಗಿ ವಿಧ</string>
+
+    <!-- Ladies Coach specific -->
+    <string name="women_reserved">ಮಹಿಳಾ ಮೀಸಲು ಬೋಗಿ</string>
+    <string name="security_level">ಸುರಕ್ಷತಾ ಮಟ್ಟ</string>
+    <string name="high_security">ಹೆಚ್ಚು</string>
+    <string name="safe_boarding_zone">ಶಿಫಾರಸು ಮಾಡಲಾದ ಹತ್ತುವ ವಲಯ: ಸುರಕ್ಷಿತ ಪ್ರದೇಶ</string>
+
+    <!-- Emergency Help -->
+    <string name="emergency_help">ತುರ್ತು ಸಹಾಯ</string>
+    <string name="railway_police">ರೈಲ್ವೆ ಪೊಲೀಸ್</string>
+    <string name="medical_help">ವೈದ್ಯಕೀಯ ಸಹಾಯ</string>
+    <string name="women_safety">ಮಹಿಳಾ ಸುರಕ್ಷತೆ</string>
+    <string name="lost_found">ಕಳೆದುಹೋದ ಮತ್ತು ಸಿಕ್ಕಿದ</string>
+    <string name="emergency_contact">ತುರ್ತು ಸಂಪರ್ಕ</string>
+    <string name="call_139">ಸಹಾಯವಾಣಿ 139 ಕ್ಕೆ ಕರೆ ಮಾಡಲಾಗುತ್ತಿದೆ...</string>
+    <string name="call_police">ರೈಲ್ವೆ ಪೊಲೀಸ್‌ಗೆ (182) ಸಂಪರ್ಕಿಸಲಾಗುತ್ತಿದೆ...</string>
+    <string name="call_medical">ವೈದ್ಯಕೀಯ ಸಹಾಯವನ್ನು (138) ವಿನಂತಿಸಲಾಗುತ್ತಿದೆ...</string>
+    <string name="call_women">ಮಹಿಳಾ ಸುರಕ್ಷತಾ ಘಟಕಕ್ಕೆ (1091) ಸಂಪರ್ಕಿಸಲಾಗುತ್ತಿದೆ...</string>
+    <string name="directing_lost_found">ಕಳೆದುಹೋದ ಮತ್ತು ಸಿಕ್ಕಿದ ಕೌಂಟರ್‌ಗೆ ನಿರ್ದೇಶಿಸಲಾಗುತ್ತಿದೆ...</string>
+    <string name="shake_phone_tip">ತುರ್ತು ಸಹಾಯಕ್ಕಾಗಿ ನಿಮ್ಮ ಫೋನ್ ಅನ್ನು ಅಲುಗಾಡಿಸಿ</string>
+    <string name="call">ಕರೆ ಮಾಡಿ</string>
+
+    <string name="enable_voice">ಧ್ವನಿ ಮಾರ್ಗದರ್ಶಿಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ</string>
+    <string name="audio_guide">ಧ್ವನಿ ಮಾರ್ಗದರ್ಶಿ</string>
+    <string name="large_text">ದೊಡ್ಡ ಪಠ್ಯ ಮೋಡ್</string>
+    <string name="thank_you_feedback">ನಿಮ್ಮ ಅಭಿಪ್ರಾಯಕ್ಕೆ ಧನ್ಯವಾದಗಳು!</string>
+    <string name="error_rating_required">ದಯವಿಟ್ಟು ರೇಟಿಂಗ್ ನೀಡಿ</string>
+    <string name="error_enter_name">ದಯವಿಟ್ಟು ನಿಮ್ಮ ಹೆಸರನ್ನು ನಮೂದಿಸಿ</string>
+    <string name="error_invalid_phone">ದಯವಿಟ್ಟು ಮಾನ್ಯವಾದ 10-ಅಂಕಿಯ ಫೋನ್ ಸಂಖ್ಯೆಯನ್ನು ನಮೂದಿಸಿ</string>
+    <string name="error_select_junction">ದಯವಿಟ್ಟು ಮೊದಲು ಜಂಕ್ಷನ್ ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="error_tts_not_ready">ಧ್ವನಿ ಮಾರ್ಗದರ್ಶಿ ಸಿದ್ಧವಿಲ್ಲ</string>
+    <string name="error_tts_kn_not_supported">ಕನ್ನಡ ಧ್ವನಿ ಮಾರ್ಗದರ್ಶಿ ಈ ಸಾಧನದಲ್ಲಿ ಬೆಂಬಲಿತವಾಗಿಲ್ಲ</string>
+    <string name="default_user">ಬಳಕೆದಾರ</string>
+    <string name="default_phone">ಫೋನ್ ಸಂಖ್ಯೆ ಇಲ್ಲ</string>
+    <string name="msg_app_reset">ಆ್ಯಪ್ ಯಶಸ್ವಿಯಾಗಿ ಮರುಹೊಂದಿಸಲಾಗಿದೆ</string>
+    <string name="msg_restart_accessibility">ಪ್ರವೇಶಿಸುವಿಕೆ ಬದಲಾವಣೆಗಳನ್ನು ಅನ್ವಯಿಸಲು ಆ್ಯಪ್ ಅನ್ನು ಮರುಪ್ರಾರಂಭಿಸಿ</string>
+
+    <string name="find_coach_prompt">ವಿವರಗಳನ್ನು ನೋಡಲು ಬೋಗಿಯನ್ನು ಆಯ್ಕೆ ಮಾಡಿ</string>
+    <string name="platform">ಪ್ಲಾಟ್‌ಫಾರ್ಮ್</string>
+    <string name="station_name_sample">ಬೆಂಗಳೂರು ಸಿಟಿ (SBC)</string>
+    <string name="select_junction">ಜಂಕ್ಷನ್ ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="announcement_welcome">ನಮ್ಮ ಪ್ಲಾಟ್‌ಫಾರ್ಮ್‌ಗೆ ಸುಸ್ವಾಗತ. ಪ್ರಾರಂಭಿಸಲು ಜಂಕ್ಷನ್ ಆಯ್ಕೆಮಾಡಿ.</string>
+    <string name="announcement_format">%1$s ಪ್ಲಾಟ್‌ಫಾರ್ಮ್ %2$s ಗೆ ಬರುತ್ತಿದೆ</string>
+    <string name="announcement_delay">%1$s %2$s ನಿಮಿಷಗಳ ಕಾಲ ವಿಳಂಬವಾಗಿದೆ</string>
+    <string name="user_profile">ಬಳಕೆದಾರರ ಪ್ರೊಫೈಲ್</string>
+    <string name="logout">ಲಾಗ್ ಔಟ್</string>
+    <string name="theme">ಥೀಮ್</string>
+    <string name="next_trains">ಮುಂದಿನ 3 ರೈಲುಗಳು</string>
+    <string name="no_trains_selected">ರೈಲುಗಳನ್ನು ನೋಡಲು ದಯವಿಟ್ಟು ಜಂಕ್ಷನ್ ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="no_facilities_found">ಈ ನಿಲ್ದಾಣಕ್ಕೆ ಯಾವುದೇ ಸೌಲಭ್ಯಗಳು ಕಂಡುಬಂದಿಲ್ಲ.</string>
+
+    <string name="announcement_main_template">ದಯವಿಟ್ಟು ಗಮನಿಸಿ. ರೈಲು ಸಂಖ್ಯೆ %2$s, %1$s, ಪ್ಲಾಟ್‌ಫಾರ್ಮ್ %3$sಕ್ಕೆ ಬರುತ್ತಿದೆ.</string>
+    <string name="announcement_next_trains">ಮುಂದಿನ ರೈಲು %1$s, ರೈಲು ಸಂಖ್ಯೆ %2$s, ಪ್ಲಾಟ್‌ಫಾರ್ಮ್ %3$sಕ್ಕೆ ಬರುತ್ತದೆ.</string>
+    <string name="tts_coach_guide">%1$s ಬೋಗಿಯು %2$s ಹತ್ತಿರ ನಿಲ್ಲುತ್ತದೆ.</string>
+    <string name="and">ಮತ್ತು</string>
+
+    <!-- Route Timeline Details -->
+    <string name="arrival">ಆಗಮನ</string>
+    <string name="departure">ನಿರ್ಗಮನ</string>
+    <string name="arrival_format">ಆಗಮನ: %1$s</string>
+    <string name="departure_format">ನಿರ್ಗಮನ: %1$s</string>
+    <string name="platform_format">ಪ್ಲಾಟ್‌ಫಾರ್ಮ್: %1$s</string>
+    <string name="time_range_format">ಆಗಮನ: %1$s | ನಿರ್ಗಮನ: %2$s</string>
+    <string name="arrival_short">ಆಗಮನ: %1$s</string>
+    <string name="departure_short">ನಿರ್ಗಮನ: %1$s</string>
+
+    <!-- Facilities Details -->
+    <string name="location_label">ಸ್ಥಳ</string>
+    <string name="distance_label">ದೂರ</string>
+    <string name="availability_label">ಲಭ್ಯತೆ</string>
+    <string name="landmark_label">ಹತ್ತಿರದ ಹೆಗ್ಗುರುತು</string>
+    <string name="water_title">ನೀರಿನ ಸೌಲಭ್ಯ</string>
+    <string name="restroom_title">ಶೌಚಾಲಯ</string>
+    <string name="food_court_title">ಆಹಾರ ಮಳಿಗೆ</string>
+    <string name="ticket_counter_title">ಟಿಕೆಟ್ ಕೌಂಟರ್</string>
+    <string name="exit_gate_title">ನಿರ್ಗಮನ ದ್ವಾರ</string>
+    <string name="nearest_police_format">ಹತ್ತಿರದ ಸಹಾಯ: %1$s</string>
+    <string name="ladies_extra_info">ಸುರಕ್ಷತೆ: %1$s\nಪೊಲೀಸ್: %2$s\nಶೌಚಾಲಯ: %3$s</string>
+    <string name="audio_guide_format">%1$s ಬೋಗಿ %2$s ನಲ್ಲಿ ನಿಲ್ಲುತ್ತದೆ</string>
+    <string name="select_coach_error">ದಯವಿಟ್ಟು ಮೊದಲು ಬೋಗಿಯನ್ನು ಆಯ್ಕೆ ಮಾಡಿ</string>
+    <string name="loading_audio">ಆಡಿಯೋ ಲೋಡ್ ಆಗುತ್ತಿದೆ...</string>
+    <string name="service_description">ಸೇವೆಯ ವಿವರಣೆ</string>
+    <string name="feedback_accessible">ಅಭಿಪ್ರಾಯ ಮತ್ತು ಬೆಂಬಲ</string>
+    <string name="high_contrast_tip">ಉತ್ತಮ ಗೋಚರತೆಗಾಗಿ ಹೈ ಕಾಂಟ್ರಾಸ್ಟ್ ಸಕ್ರಿಯಗೊಳಿಸಿ</string>
+</resources>

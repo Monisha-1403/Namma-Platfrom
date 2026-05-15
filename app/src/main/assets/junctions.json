@@ -1,0 +1,72 @@
+[
+  {
+    "junctionId": "MYS",
+    "name": "Mysuru Junction",
+    "nameKn": "ಮೈಸೂರು ಜಂಕ್ಷನ್",
+    "code": "MYS",
+    "city": "Mysuru"
+  },
+  {
+    "junctionId": "SBC",
+    "name": "Bengaluru Junction",
+    "nameKn": "ಬೆಂಗಳೂರು ಜಂಕ್ಷನ್",
+    "code": "SBC",
+    "city": "Bengaluru"
+  },
+  {
+    "junctionId": "MYA",
+    "name": "Mandya Junction",
+    "nameKn": "ಮಂಡ್ಯ ಜಂಕ್ಷನ್",
+    "code": "MYA",
+    "city": "Mandya"
+  },
+  {
+    "junctionId": "BGM",
+    "name": "Belagavi Junction",
+    "nameKn": "ಬೆಳಗಾವಿ ಜಂಕ್ಷನ್",
+    "code": "BGM",
+    "city": "Belagavi"
+  },
+  {
+    "junctionId": "UBL",
+    "name": "Hubballi Junction",
+    "nameKn": "ಹುಬ್ಬಳ್ಳಿ ಜಂಕ್ಷನ್",
+    "code": "UBL",
+    "city": "Hubballi"
+  },
+  {
+    "junctionId": "TK",
+    "name": "Tumakuru Junction",
+    "nameKn": "ತುಮಕೂರು ಜಂಕ್ಷನ್",
+    "code": "TK",
+    "city": "Tumakuru"
+  },
+  {
+    "junctionId": "MAQ",
+    "name": "Mangalore Junction",
+    "nameKn": "ಮಂಗಳೂರು ಜಂಕ್ಷನ್",
+    "code": "MAQ",
+    "city": "Mangaluru"
+  },
+  {
+    "junctionId": "SMET",
+    "name": "Shivamogga Junction",
+    "nameKn": "ಶಿವಮೊಗ್ಗ ಜಂಕ್ಷನ್",
+    "code": "SMET",
+    "city": "Shivamogga"
+  },
+  {
+    "junctionId": "DVG",
+    "name": "Davangere Junction",
+    "nameKn": "ದಾವಣಗೆರೆ ಜಂಕ್ಷನ್",
+    "code": "DVG",
+    "city": "Davangere"
+  },
+  {
+    "junctionId": "HAS",
+    "name": "Hassan Junction",
+    "nameKn": "ಹಾಸನ ಜಂಕ್ಷನ್",
+    "code": "HAS",
+    "city": "Hassan"
+  }
+]
